@@ -13,7 +13,6 @@ eureka:
     endpoints:
       endpoint:
         uri: http://PAYMENT-SERVICE/payment/doPayment
-
   order-service:
     endpoints:
       endpoint:
